@@ -22,12 +22,12 @@ Trước khi bạn clone repository, hãy đảm bảo rằng bạn đã cài đ
    ```bash
    cd D:/Projects
 ## Clone repository bằng lệnh sau:
-git clone [https://github.com/leedontbeshy/English_Vietnamese_Dictionary.git]
+git clone https://github.com/leedontbeshy/English_Vietnamese_Dictionary.git
 
 
 3. Clone repository từ GitHub về máy tính của bạn:
    ```bash
-   (https://github.com/leedontbeshy/English_Vietnamese_Dictionary.git)
+   (git clone https://github.com/leedontbeshy/English_Vietnamese_Dictionary.git)
    ```
  
 
