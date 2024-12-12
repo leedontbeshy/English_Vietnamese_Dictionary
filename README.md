@@ -27,7 +27,7 @@ git clone https://github.com/leedontbeshy/English_Vietnamese_Dictionary.git
 
 3. Clone repository từ GitHub về máy tính của bạn:
    ```bash
-   (git clone https://github.com/leedontbeshy/English_Vietnamese_Dictionary.git)
+   git clone https://github.com/leedontbeshy/English_Vietnamese_Dictionary.git
    ```
  
 
