@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\english - vietnamese dictionary\\frmfavoritewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|solutionrelative:english - vietnamese dictionary\\frmfavoritewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|c:\\users\\admin\\source\\repos\\english - vietnamese dictionary - original - copy\\english - vietnamese dictionary\\frmfavoritewords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|solutionrelative:english - vietnamese dictionary\\frmfavoritewords.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\english - vietnamese dictionary\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|solutionrelative:english - vietnamese dictionary\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\english - vietnamese dictionary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|solutionrelative:english - vietnamese dictionary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\english - vietnamese dictionary\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|solutionrelative:english - vietnamese dictionary\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\english - vietnamese dictionary\\frmfavoritewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|solutionrelative:english - vietnamese dictionary\\frmfavoritewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\english - vietnamese dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|solutionrelative:english - vietnamese dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\english - vietnamese dictionary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48E29BD-919F-4B3A-B71C-69B26DFEE564}|English - Vietnamese Dictionary\\English - Vietnamese Dictionary.csproj|solutionrelative:english - vietnamese dictionary\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmFavoriteWords.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\frmFavoriteWords.cs",
+              "RelativeDocumentMoniker": "English - Vietnamese Dictionary\\frmFavoriteWords.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\frmFavoriteWords.cs",
+              "RelativeToolTip": "English - Vietnamese Dictionary\\frmFavoriteWords.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowKEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:54:26.027Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Form1.cs",
+              "RelativeDocumentMoniker": "English - Vietnamese Dictionary\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Form1.cs",
+              "RelativeToolTip": "English - Vietnamese Dictionary\\Form1.cs",
+              "ViewState": "AgIAADECAAAAAAAAAAAEwD8CAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:58:54.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "English - Vietnamese Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Program.cs",
+              "RelativeToolTip": "English - Vietnamese Dictionary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:47:34.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmFavoriteWords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\frmFavoriteWords.cs",
+              "RelativeDocumentMoniker": "English - Vietnamese Dictionary\\frmFavoriteWords.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\frmFavoriteWords.cs [Design]",
+              "RelativeToolTip": "English - Vietnamese Dictionary\\frmFavoriteWords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:25:32.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "English - Vietnamese Dictionary\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "English - Vietnamese Dictionary\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:25:28.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Form1.cs",
+              "RelativeDocumentMoniker": "English - Vietnamese Dictionary\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Form1.cs [Design]",
+              "RelativeToolTip": "English - Vietnamese Dictionary\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:01:59.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "English - Vietnamese Dictionary\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\Form1.Designer.cs",
+              "RelativeToolTip": "English - Vietnamese Dictionary\\Form1.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAASwLMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:59:26.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmFavoriteWords.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\frmFavoriteWords.Designer.cs",
+              "RelativeDocumentMoniker": "English - Vietnamese Dictionary\\frmFavoriteWords.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\English - Vietnamese Dictionary - Original - Copy\\English - Vietnamese Dictionary\\frmFavoriteWords.Designer.cs",
+              "RelativeToolTip": "English - Vietnamese Dictionary\\frmFavoriteWords.Designer.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAASwI4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:31:51.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

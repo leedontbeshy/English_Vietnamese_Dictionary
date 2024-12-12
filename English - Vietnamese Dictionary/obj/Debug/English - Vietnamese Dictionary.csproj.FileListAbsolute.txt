@@ -1,0 +1,68 @@
+c:\users\nguyen viet chien\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe.config
+C:\Users\NGUYEN VIET CHIEN\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe
+C:\Users\NGUYEN VIET CHIEN\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\NGUYEN VIET CHIEN\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN VIET CHIEN\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Form1.resources
+C:\Users\NGUYEN VIET CHIEN\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Properties.Resources.resources
+C:\Users\NGUYEN VIET CHIEN\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.GenerateResource.Cache
+C:\Users\NGUYEN VIET CHIEN\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.exe
+C:\Users\NGUYEN VIET CHIEN\documents\visual studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\NGUYEN VIET CHIEN\Documents\Visual Studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\Interop.NHMTTSENGLib.dll
+C:\Users\NGUYEN VIET CHIEN\Documents\Visual Studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.ResolveComReference.cache
+C:\Users\NGUYEN VIET CHIEN\Documents\Visual Studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmAbout.resources
+C:\Users\NGUYEN VIET CHIEN\Documents\Visual Studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmFavoriteWords.resources
+C:\Users\NGUYEN VIET CHIEN\Documents\Visual Studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmIrregularVerbs.resources
+C:\Users\NGUYEN VIET CHIEN\Documents\Visual Studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmSetting.resources
+C:\Users\NGUYEN VIET CHIEN\Documents\Visual Studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmTranslator.resources
+C:\Users\NGUYEN VIET CHIEN\Documents\Visual Studio 2013\Projects\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frm3000OxfordWords.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Form1.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frm3000OxfordWords.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmAbout.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmFavoriteWords.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmIrregularVerbs.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmSetting.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmTranslator.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Properties.Resources.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.exe
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe.config
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Form1.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmFavoriteWords.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Properties.Resources.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.exe
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe.config
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe.config
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Form1.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.frmFavoriteWords.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Properties.Resources.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.exe
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Copy1\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe.config
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.exe
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\bin\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Form1.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.Properties.Resources.resources
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.exe
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\obj\Debug\English - Vietnamese Dictionary.pdb
+C:\Users\Admin\source\repos\English - Vietnamese Dictionary - Original - Copy\English - Vietnamese Dictionary\obj\Debug\English___Vietnamese_Dictionary.MyFavoriteWords.resources
