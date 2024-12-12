@@ -73,32 +73,6 @@ git clone [https://github.com/leedontbeshy/English_Vietnamese_Dictionary.git]
 1. Mở dự án.
 2. Nhấn `Shift + F10` để chạy ứng dụng.
 
-## Các Lệnh Git Cơ Bản
-
-- **Để cập nhật repository với thay đổi mới nhất từ GitHub**:
-  ```bash
-  git pull origin main
-  ```
-
-- **Để đẩy thay đổi của bạn lên GitHub**:
-  ```bash
-  git push origin main
-  ```
-
-- **Để xem trạng thái của repository**:
-  ```bash
-  git status
-  ```
-
-- **Để tạo một nhánh mới**:
-  ```bash
-  git checkout -b new-branch
-  ```
-
-- **Để chuyển sang nhánh khác**:
-  ```bash
-  git checkout branch-name
-  ```
 
 ## Các Yêu Cầu Cài Đặt
 
